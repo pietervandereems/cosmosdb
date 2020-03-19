@@ -1,0 +1,10 @@
+const config = {
+    endpoint: "<endpoint url>/",
+    auth: {
+        masterKey: "<masterkey>"
+    },
+    databaseId: "<databaseid>",
+    containerId: "<containerid>"
+};
+
+export { config };
